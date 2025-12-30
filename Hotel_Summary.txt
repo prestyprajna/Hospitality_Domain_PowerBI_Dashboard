@@ -1,0 +1,11 @@
+handled data modelling of two fact tables
+
+1. Atliq seasons performed low showing low revenue and occupancy%.
+2. Atliq seasons performed low since it has only presence in mumbai
+3. Also the average rating for Atliq seasons is very low when compared to others.
+4. None of the hotels have average rating above 4, should focus on customer reviews to increase performance
+5. Luxury Hotel, Business Hotel and both performance --> out of 7 hotels , 4 are for Luxury hotels and 3 are for business hotels. Provision should be made to include both the types of hotels for all the 7 hotels which would increase bookings as well as revenue.
+6. Elite showed highest number of bookings while Presidential class being the lowest.
+7. Mumbai showed high number of bookings and Delhi being the lowest.
+8. others platform showed highest booking with 40%, followed by makeyourtrip to 20%, while other platforms have less than 10%. Hotels should focus on easy booking experience through online platform or the hotel's website.
+9. Elite class has highest number of bookings and total revenue. Presedential class has lowest revenue and lowest bookings.
